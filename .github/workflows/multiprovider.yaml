@@ -3,7 +3,7 @@ name: Terraform Multicloud
 on:
   push:
     branches:
-    - main
+    - develop
     paths:
     -  '**.tf'
 
